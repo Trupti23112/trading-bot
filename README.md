@@ -150,21 +150,22 @@ Logs help in debugging and monitoring the bot's activity.
 
 ---
 
+
+
+---
 ## Demo
 
-A screen recording demonstrating the bot's functionality is included in this repository.
+A screen recording demonstrating the successful execution of the Binance Futures Trading Bot is included in this repository.
 
-The demo shows:
+The demo showcases:
 
 - Running the bot from the command line
-- Placing a market order on Binance Testnet
-- Order validation and error handling
-- Order summary output
+- Placing market and limit orders on Binance Futures Testnet
+- Input validation and error handling
+- Order summary and status output
 - Logging of transactions
 
 Video file: `demo.mp4`
-
----
 
 ## Disclaimer
 
